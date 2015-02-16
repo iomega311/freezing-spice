@@ -37,6 +37,8 @@ echo "10) Install everything, including Update/Upgrade option"
 echo ""
 echo "11) Forget the whole thing and just exit..."
 echo ""
+echo "(NOTE: After installing packages, restarting is suggested)"
+echo ""
 echo -n ":"
 xControl
 }
